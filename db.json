@@ -20,6 +20,90 @@
 		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/burnm.jpg",
 		 "latitude": "40.782391",
 		 "longitude": "-119.211615"		 
-      }
+      },
+	        {
+         "title":"untold", 
+		 "description":"untold festival ... description", 
+		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/untold.jpg",
+		 "latitude": "46.768408",
+		 "longitude": "23.572112"
+      },
+      {
+         "title":"electric",
+		 "description":"electric festival ... description",
+		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/ec.jpg",
+		 "latitude": "46.542715",
+		 "longitude": "24.557983"		 
+      },
+	  {
+         "title":"burning man",
+		 "description":"burning man festival ... description",
+		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/burnm.jpg",
+		 "latitude": "40.782391",
+		 "longitude": "-119.211615"		 
+      },
+	        {
+         "title":"untold", 
+		 "description":"untold festival ... description", 
+		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/untold.jpg",
+		 "latitude": "46.768408",
+		 "longitude": "23.572112"
+      },
+      {
+         "title":"electric",
+		 "description":"electric festival ... description",
+		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/ec.jpg",
+		 "latitude": "46.542715",
+		 "longitude": "24.557983"		 
+      },
+	  {
+         "title":"burning man",
+		 "description":"burning man festival ... description",
+		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/burnm.jpg",
+		 "latitude": "40.782391",
+		 "longitude": "-119.211615"		 
+      },
+	        {
+         "title":"untold", 
+		 "description":"untold festival ... description", 
+		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/untold.jpg",
+		 "latitude": "46.768408",
+		 "longitude": "23.572112"
+      },
+      {
+         "title":"electric",
+		 "description":"electric festival ... description",
+		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/ec.jpg",
+		 "latitude": "46.542715",
+		 "longitude": "24.557983"		 
+      },
+	  {
+         "title":"burning man",
+		 "description":"burning man festival ... description",
+		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/burnm.jpg",
+		 "latitude": "40.782391",
+		 "longitude": "-119.211615"		 
+      },
+	        {
+         "title":"untold", 
+		 "description":"untold festival ... description", 
+		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/untold.jpg",
+		 "latitude": "46.768408",
+		 "longitude": "23.572112"
+      },
+      {
+         "title":"electric",
+		 "description":"electric festival ... description",
+		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/ec.jpg",
+		 "latitude": "46.542715",
+		 "longitude": "24.557983"		 
+      },
+	  {
+         "title":"burning man",
+		 "description":"burning man festival ... description",
+		 "thumbnail_url":"https://raw.githubusercontent.com/bgyuri76dev/festivalLocatorTest/main/logo/burnm.jpg",
+		 "latitude": "40.782391",
+		 "longitude": "-119.211615"		 
+      },
    ]
 }
