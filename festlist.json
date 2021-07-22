@@ -1,5 +1,10 @@
-festivals:[
-	untold: {},
-	electric_castle: {}
-
-]
+{
+   "festivals":[
+      {
+         "name":"untold"
+      },
+      {
+         "name":"electric"
+      }
+   ]
+}
